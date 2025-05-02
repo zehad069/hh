@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Cat",
+    "species": "Mammal (Domestic Cat)",
+    "description": "The domestic cat is a small carnivorous mammal known for its agility and independent nature. Cats have been companions to humans for thousands of years, offering both companionship and pest control.",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT51NwBYJ6Qo5X7TT08-KCzhSA8UE6Pti07iA&s",
+    "image": ""
+  },
+  {
+    "name": "Lion",
+    "species": "Wild Animal (Mammal)",
+    "description": "The lion is one of the most powerful and social predators, found primarily in Africa. Known as the 'King of the Jungle,' they are second in size to tigers, living in groups called prides.",
+    "thumbnail": "https://static.vecteezy.com/system/resources/thumbnails/030/701/494/small_2x/lion-background-4k-free-photo.jpg",
+    "image": ""
+  },
+  {
+    "name": "Peacock",
+    "species": "Bird",
+    "description": "Peacocks are known for their colorful, iridescent tail feathers used in elaborate courtship displays. These birds are found in South Asia, and their beauty has made them a symbol of grace and elegance.",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX_h1gNrNc7jZup5GsQFHeh-fc-BJ1lm96lQ&s",
+    "image": ""
+  },
+
+  {
+    "name": "Pigeon",
+    "species": "Bird",
+    "description": "Pigeons are remarkable for their homing abilities and have been used in communication for centuries. With strong navigational skills, they played vital roles in both World Wars.",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQitnM-UfWQqmxsXKcQKoUWt0nmS738A1ZGUQ&s",
+    "image": ""
+  },
+
+  {
+    "name": "Monkey",
+    "species": "Placental Mammals",
+    "description": "Monkeys are highly intelligent and diverse, found in tropical and subtropical regions. With over 260 species, they are known for their social behavior, communication, and ability to adapt.",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX332LXfhrq73gANDv-oli1h98dQM7Eo8VTg&s",
+    "image": ""
+  },
+  {
+    "name": "Common Mynah",
+    "species": "Bird",
+    "description": "The Common Mynah is a bird known for its intelligence and adaptability. It is found widely across Asia and is recognized for its ability to mimic human speech and its striking yellow and black plumage.",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf8BxYZeH04SiX8s5Ywx3nZ01RsxugpfTtPA&s",
+    "image": ""
+  },
+
+  {
+    "name": "Oriental Magpie-robin",
+    "species": "Bird",
+    "description": "The Oriental Magpie-robin is a small bird native to South Asia. Known for its melodious song, it is a common presence in gardens and forests, symbolizing happiness and prosperity.",
+    "thumbnail": "https://t4.ftcdn.net/jpg/04/09/76/97/360_F_409769760_3cIinw4D5UrjnVovRJ1dntJ8yWlFxfVq.jpg",
+    "image": ""
+  },
+
+  {
+    "name": "Owl",
+    "species": "Bird",
+    "description": "Owls are nocturnal birds famous for their silent flight, large eyes, and sharp hearing. They play a vital role in controlling small mammal populations, with around 200 species worldwide.",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm322GyTH7J2ENgTDL7Tdi3nJRRiAXNgYo2Q&s",
+    "image": ""
+  },
+
+  {
+    "name": "Tortoise",
+    "species": "Reptilia",
+    "description": "Tortoises are slow-moving reptiles known for their hard, protective shells. They are herbivores and can live up to 150 years. Tortoises hibernate during colder months and lay eggs in burrows.",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3hq51IPOswlYEaAiqQa12pmyU4wfmRKeHjQ&s",
+    "image": ""
+  },
+ 
+  {
+    "name": "Spider",
+    "species": "Arachnids",
+    "description": "Spiders are arachnids with eight legs and the ability to spin silk to create webs. They play an essential role in controlling insect populations. Some species, like tarantulas, are quite large.",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfKXt0XH1bOUj8mNmAfqBtmzNDr3N-YW3YLQ&s",
+    "image": ""
+  },
+  
+  {
+    "name": "Zebra",
+    "species": "Mammal",
+    "description": "Zebras are African herbivores known for their unique black-and-white stripes. These stripes help with camouflage and social identification within their herds. They are also fast runners and communicate with ear movements.",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqty0Sx3XZzHa16sFo6SY7O3MhmOJbuydVSA&s",
+    "image": ""
+  }
+  
+]
